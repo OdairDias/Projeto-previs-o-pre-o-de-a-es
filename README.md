@@ -7,7 +7,7 @@
    Sklearn, Matplotlib, Pandas datareader*
 
 
-## O que é uma  Redes Long-Short Term Memory?
+## O que é uma  Rede LSTM ? (Long-Short Term Memory)
 ![Rede LSTM](https://user-images.githubusercontent.com/117185803/202445443-a3a6fbe8-8cec-4099-ad73-3052e72d2385.jpg)
 
    *Em aprendizado profundo (Deep Learning), as Redes Neurais Recorrentes (RNNs) são Redes Neurais Artificiais que, diferentemente das redes neurais feedforward, usam 
