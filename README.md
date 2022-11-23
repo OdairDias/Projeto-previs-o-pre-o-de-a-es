@@ -1,4 +1,4 @@
-# LSTM Projeto-previsão de preço de ações
+# Rede neural LSTM Projeto-previsão de preço de ações
    *Este projeto tem por objetivo, tentar prever o preço futuro de uma determinada ação
    levando em consideração os movimentos passados do ativo usando rede neural LSTM.
    Bibliotecas utilizadas:
